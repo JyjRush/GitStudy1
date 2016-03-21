@@ -19,3 +19,12 @@ master
 
 
 >>>>>>>> //끝
+
+
+* Branch - Merge
+
+- fast-forward: master에 brX의 지난 과정까지 통합.
+
+- non fast-forward: master에 brX의 최종 내용만 통합.
+
+- rebase: marster에 변경된 내역들 끝에 brX에 지난 과정 들을 붙이고 통합.
