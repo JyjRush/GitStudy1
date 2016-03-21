@@ -18,3 +18,5 @@
  Release branch 들은 새로운 production 릴리즈를 준비하는데 도움을 줍니다. Relase branch 들은 마지막순간에 실수를 저지르지 않도록 도와줍니다. 게다가, 릴리즈를 위한 자잘한 버그의 수정이나 메타데이터(version number, build dates, etc)를 준비하는 것을 가능하게 해줍니다. 이러한 것들을 release branch 에서 수행함으로써, develop 브랜치는 다음번의 큰 릴리즈를 위한 기능들을 받아들이기가 매우 용이해집니다.
  
  
+
+
